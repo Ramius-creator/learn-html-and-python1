@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arguments</title>
+    <link rel="stylesheet" href="python.css">
+</head>
+<body>
+    <h1 class="h1function"><i>Arguments</i></h1>
+    <h3 class="h3argument">
+        Default Arguments<br>
+A default value for certain parameters, default
+ is used when that argument is excluded. makes 
+ your functions more flexible, reduces # of 
+ arguments.<br>
+ 
+def net_price(list_price, discount=0, tax=0.05):<br>
+return list_price * (1 - discount) * (1 + tax)<br></h3>
+ <h3 class="h3argument">
+Positional Arguments<br>
+Values passed into a function based on their order / position<br>
+ 
+def greet(First, Last):<br>
+print(f"hello {First} {Last}")<br>
+ <br>
+greet("Krapopolis", "Ramius")<br>
+ <br>
+(First) and (Last) are in position<br>
+(First) and "Ramius" are in position<br>
+ <br
+output: hello Krapopolis Ramius <br>
+    </h3>
+    <h3 class="h3argument">
+        <i>Keyword arguments</i><br><br>
+An argument preceded by an identifier, 
+helps with readability<br>
+(order doesn't matter)
+ <br><br>
+def hello(greeting, title, First, Last):<br>
+print(f"greetings {title} {First} {Last}")<br>
+ <br><br>
+hello("hello", title="Mr.", last="Ramius", First="Krapopolis")<br>
+ 
+Output: hello Mr. Krapopolis Ramius<br>
+ <br><br>
+Keyword arguments order doesn't matter<br>
+ 
+- can be placed anywhere within reason<br>
+- wont see error to output<br>
+ 
+(Keyword arguments are unlike positional but adding these)<br>
+ 
+(if forgot to put a keyword here but this still works because it follows the positional arguments)<br>
+ 
+Switched<br>
+(last) to (First)<br>
+(First) to (Last)<br>
+but still same output as in the function<br>
+
+    </h3>
+    
+    
+    <a href="python.html" class="homebutton3">back to python home</a>
+    
+</body>
+</html>

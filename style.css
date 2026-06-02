@@ -1,0 +1,25 @@
+body{
+    background-image: url(central\ park.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+.language{
+    background-color: rgb(210, 157, 157);
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.language:hover{
+    font-size: 30px;
+    color: red;
+}
+main{
+    font-size: 25px;
+    background-color: lightgray;
+    border-radius: 15px;
+}

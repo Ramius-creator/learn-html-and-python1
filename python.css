@@ -1,0 +1,277 @@
+body{
+    background-image: url(technologybackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+.homeP{
+    background-color: rgb(255, 192, 192);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.lessonsP{
+    font-size: 25px;
+    background-color: gray;
+    padding: 1px;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.lessonsP:hover{
+    font-size: 35px;
+    transition: 0.5s;
+    color: lightblue;
+}
+.basicsh3{
+    background-color: gray;
+}
+.homebutton1{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 15px;
+    color: lightgray;
+}
+.homebutton1:hover{
+    font-size: 35px;
+    color: lightblue;
+}
+.h3math{
+    font-size: 25px;
+    background-color: gray;
+    border-radius: 15px;
+}
+.h3math{
+    font-size: 25px;
+    background-color: gray;
+    border-radius: 15px;
+}
+.h3math{
+    font-size: 25px;
+    background-color: gray;
+    border-radius: 15px;
+}
+.h1MathP{
+    background-color: rgb(159, 229, 102);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.homebutton2{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 15px;
+    color: rgb(87, 84, 84);
+    text-decoration: none;
+}
+.homebutton2:hover{
+    font-size: 35px;
+    color: rgb(102, 116, 121);
+}
+.h3datatypes{
+    background-color: gray;
+    font-size: 25px;
+}
+.h1datatypes{
+    background-color: rgb(226, 249, 173);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.homebutton3:hover{
+    font-size: 35px;
+    color: rgb(102, 116, 121);
+    
+}
+.homebutton3{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 15px;
+    color: rgb(87, 84, 84);
+    text-decoration: none;
+}
+.h3format{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+    
+}
+.h1format{
+    background-color: rgb(138, 150, 129);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+
+.h3logical{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.homebutton3{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 15px;
+    color: rgb(87, 84, 84);
+    text-decoration: none;
+}
+.h1index{
+    background-color: rgb(117, 231, 30);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3index{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h1while{
+    background-color: rgb(131, 185, 169);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3while{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h1function{
+    background-color: rgb(131, 185, 169);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3function{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h3argument{
+    background-color: gray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+.phtml{
+    font-size: 25px;
+    background-color: gray;
+    padding: 1px;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.homeH{
+    background-color: rgb(131, 185, 169);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.lessonsh{
+    font-size: 25px;
+    background-color: gray;
+    padding: 1px;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.lessonsh:hover{
+    font-size: 35px;
+    transition: 0.5s;
+    color: lightblue;
+}
+.bodyh{
+    background-image: url(low-poly-style-zero-one-binary-digit-tech-background_1017-52413.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.h3basic{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h1basic{
+    background-color: rgb(131, 185, 169);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h1hyper{
+    background-color: rgb(243, 230, 49);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3hyper{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h3audio{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h1audio{
+    background-color: rgb(21, 252, 4);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h1list{
+    background-color: rgb(21, 252, 4);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3list{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h3button{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.h1button{
+    background-color: rgb(21, 252, 4);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h1form{
+    background-color: rgb(21, 252, 4);
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
+    max-width: 300px;
+}
+.h3form{
+    background-color: lightgray;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+}

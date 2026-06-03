@@ -1,25 +1,57 @@
 body{
-    background-image: url(central\ park.jpg);
+    background-color: black;
+    background-image: url(mountfuji.avif);
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
     background-size: cover;
+    background-position: center;
+}
+.h1header{
+    background-color: rgb(39, 12, 242);
+    color: rgb(6, 185, 245);
+    text-shadow: 2px 2px 5px gray;
+    font-size: 58px;
+}
+.h3menu{
+    background-color: black;
+    border: 2px solid white;
+    padding: 25px;
+    margin: 150px auto;
+    color: blue;
+    width: 450px;
+    height: 200px;
     text-align: center;
-}
-.language{
-    background-color: rgb(210, 157, 157);
-    display: inline-block;
-    border-radius: 10px;
-    font-size: 20px;
-    padding: 5px 10px;
-    text-decoration: none;
-}
-.language:hover{
-    font-size: 30px;
-    color: red;
-}
-main{
+    border-radius: 25px;
     font-size: 25px;
-    background-color: lightgray;
+    border-bottom-color: blue;
+    border-left-color: darkblue;
+    border-right-color: rgb(14, 10, 132);
+    border-top-color: rgb(42, 42, 113);
+}
+
+
+.menubutton{
+    background-color: #520dff;
     border-radius: 15px;
+    border-color: yellowgreen;
+    font-size: 30px;
+    margin: 15px;
+    text-decoration: none;
+    
+}
+.menubutton:hover{
+    transform: scale(1.1);
+    font-size: 35px;
+}
+.foot{
+    background-color: blue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    color: white;
+    background-color: rgb(6, 27, 254);
+    text-align: left;
+    margin: 0;
+    color: cyan;
+    text-shadow: 5px 5px 5px gray;
 }

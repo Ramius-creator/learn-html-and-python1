@@ -10,6 +10,7 @@ body{
     color: rgb(6, 185, 245);
     text-shadow: 2px 2px 5px gray;
     font-size: 58px;
+    
 }
 .h3menu{
     background-color: black;
@@ -42,6 +43,11 @@ body{
     transform: scale(1.1);
     font-size: 35px;
 }
+.menubutton {
+  padding: 10px 20px;
+  font-size: 16px;
+  max-width: 90%;
+}
 .foot{
     background-color: blue;
     position: fixed;
@@ -54,4 +60,14 @@ body{
     margin: 0;
     color: cyan;
     text-shadow: 5px 5px 5px gray;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  .box {
+    width: 90%;
+  }
 }
